@@ -11,13 +11,11 @@ Constraints:
 - Infer the scope from the context of the diff
 
 Structure:
-```
 <type>[optional scope]: <description>
 
 [optional body]
 
 [optional footer]
-```
 
 Possible scopes (examples, infer from diff context):
 - api: app API-related code
